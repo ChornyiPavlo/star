@@ -1014,9 +1014,13 @@ p.form-message.success, p.form-message.error {
 
 /*# sourceMappingURL=style.css.map */
 .img-about {
-  width: 77%;
-  float: right;
+  height: 100%;
+  width: 790px;
+  object-fit: cover;
 }
 .policy p {
   margin: 20px 0;
+}
+.image {
+  height: 100%;
 }
